@@ -1,0 +1,27 @@
+progression:
+- notes:
+  - C4
+  - E4
+  - G4
+  velocities:
+  - 68
+  - 71
+  - 74
+- notes:
+  - C4
+  - E4
+  - G4
+  velocities:
+  - 50
+  - 59
+  - 79
+  roll: true
+  roll_ms: 10000
+- notes:
+  - C4
+  - E4
+  - G4
+  velocities:
+  - 55
+  - 57
+  - 63
